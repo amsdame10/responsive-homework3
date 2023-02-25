@@ -102,8 +102,9 @@ p {
   text-decoration: underline;
 }
 img {
-  max-width: 100%;
+  max-width: 50%;
   border-radius: 10px;
   display: block;
   margin: 30px auto;
+  box-shadow: 25px;
 }
