@@ -115,5 +115,9 @@ img {
   }
   h2 {
     font-size: 36px;
+    text-align: center;
+  }
+  p {
+    text-align: center;
   }
 }
